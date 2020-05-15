@@ -13,6 +13,11 @@
 1. `composer install`
 2. `npm install` or `yarn`
 
+## After Install
+1. Duplicate `.env.example` file, change its name to `.env` and change the environment variables
+2. `php artisan key:generate`
+3. `php artisan config:cache`
+
 ## Run on development
 1. `php artisan serve`
 2. `npm run watch`
