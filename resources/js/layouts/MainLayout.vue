@@ -41,7 +41,9 @@
     </q-drawer>
 
     <q-page-container>
-      <router-view />
+      <transition appear enter-active-class="animate__animated animate__zoomIn">
+        <router-view />
+      </transition>
     </q-page-container>
   </q-layout>
 </template>

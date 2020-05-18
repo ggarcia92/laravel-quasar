@@ -10,7 +10,7 @@ Vue.use(Quasar, {
     lang: langQ,
     config: {
         brand: {
-            primary: '#B48BE3',
+            primary: '#048BE3',
             secondary: '#7fada9',
             accent: '#c9a7cf',
 

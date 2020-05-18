@@ -8,6 +8,7 @@
 - [Axios](https://github.com/axios/axios)
 - [lodash](https://github.com/lodash/lodash)
 - [Vuex](https://github.com/vuejs/vuex)
+- [animate.css](https://github.com/animate-css/animate.css)
 
 ## Install dependencies
 1. `composer install`
