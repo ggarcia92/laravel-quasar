@@ -24,6 +24,6 @@
 2. `npm run watch`
 
 ## Run on production
-1. Change production URL on `/resources/js/boostrap`
+1. Change production URL on `/resources/js/boot/axios`
 2. `npm run prod`
 3. Deploy Laravel according to [this](https://laravel.com/docs/7.x/deployment)

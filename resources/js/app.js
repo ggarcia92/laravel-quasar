@@ -4,6 +4,8 @@ import langQ from 'quasar/lang/es'
 import store from './store'
 import router from './router'
 
+require('./bootstrap')
+
 import App from "./app.vue"
 
 Vue.use(Quasar, {
